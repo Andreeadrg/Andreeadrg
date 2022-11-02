@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andreeadrg
-- 👀 I’m interested in coding and engineering design
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on projects based on front-end/ Python 3
+- 👀 I’m interested in coding, engineering design and in art illustrations
+- 🌱 I’m currently learning HTML/SCSS/CSS
+- 💞️ I’m looking to collaborate on projects based on front-end
 - 📫 How to reach me via email andreeaadrg1@gmail.com
 
 <!---
